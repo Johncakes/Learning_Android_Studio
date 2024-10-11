@@ -1,0 +1,5 @@
+package com.example.pettracker.ui
+
+import com.example.pettracker.data.TimerData
+
+val timers = listOf(TimerData)

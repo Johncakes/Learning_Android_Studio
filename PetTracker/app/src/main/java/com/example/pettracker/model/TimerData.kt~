@@ -1,0 +1,10 @@
+package com.example.pettracker.model
+
+import kotlin.time.Duration
+
+data class TimerData(
+    val id: Int,
+    val playerName: String,
+    val playerImage: Int,
+    val timeLeft: Int,
+)
